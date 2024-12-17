@@ -291,3 +291,4 @@ You can connect these by clicking [Open MCP popover](#open-mcp-popover) in your 
 3. **Security Guide**: Follow OWASP guidelines for e-commerce security
 
 Remember: Start with Supabase for easiest setup, then scale to dedicated hosting if needed!
+Commit at 2024-12-17T13:15:56
